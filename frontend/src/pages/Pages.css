@@ -1,0 +1,41 @@
+.hero-section {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.hero-image {
+  font-size: 8rem;
+}
+
+.features-section {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.cta-section {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.card {
+  border: none;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+form {
+  margin-top: 1rem;
+}
+
+table {
+  margin-top: 1rem;
+}
+
+.text-muted {
+  font-size: 0.875rem;
+  font-weight: 600;
+}
